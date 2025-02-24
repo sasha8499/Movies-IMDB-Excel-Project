@@ -3,6 +3,17 @@ Excel Dashboard analyzing profitability, production trends, and key performance 
 ## 🎥 Blockbusters & Beyond: Profitability & Trends in Cinema
 This project presents an interactive Excel dashboard that explores the profitability, production patterns, and audience preferences in the cinema industry. Leveraging the IMDb 5000 Movie Dataset, the dashboard provides key insights into genre performance, director ratings, country-wise profit trends, and content rating profitability distribution.
 
+## Dataset Used
+- <a href =  "https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset" >Dataset</a>
+
+## Questions (KPIs)
+Which Genre Category is the Most Profitable?
+Which genre categories have the highest average IMDb scores?
+Which countries dominate the movie industry in terms of total profit?
+What are the Trends in Movie Production Over Decades?
+Which Directors Have the Highest Average IMDb Scores?
+Which content rating category contributes the most to overall profitability
+
 ## Key Features:
 💹 Profitability Analysis: Insights into total budget, gross revenue, and profits across genre categories.
 🎭 Genre Insights: Evaluation of average IMDb scores per genre to identify top-performing categories.
@@ -15,11 +26,7 @@ Tools Used:
 🧹 Power Query (Data Validation & Enrichment)
 🎨 Themed Design: Classic Hollywood Glam
 
-## Dataset Used
-- <a href =  "https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset" >Dataset</a>
-
-Project Highlights:
-
+## Project Highlights:
 📈 Identified highly profitable genres and top-rated directors.
 🌟 Analyzed decade-based profitability trends revealing industry shifts.
 🌍 Explored country-wise profit distribution showcasing USA as the dominant market.
