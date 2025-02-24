@@ -22,7 +22,7 @@ This project presents an interactive Excel dashboard that explores the profitabi
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
   ## DashBoard
-  https://github.com/sasha8499/Movies-IMDB-Excel-Project/blob/main/Screenshot%202025-02-24%20013625.png
+  ![Screenshot 2025-02-24 013625](https://github.com/user-attachments/assets/d1c4db1f-2898-4154-b715-032e656d8ccb)
 
 ## Key Features:
 💹 Profitability Analysis: Insights into total budget, gross revenue, and profits across genre categories.
