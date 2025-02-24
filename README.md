@@ -7,12 +7,12 @@ This project presents an interactive Excel dashboard that explores the profitabi
 - <a href =  "https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset" >Dataset</a>
 
 ## Questions (KPIs)
-Which Genre Category is the Most Profitable?
-Which genre categories have the highest average IMDb scores?
-Which countries dominate the movie industry in terms of total profit?
-What are the Trends in Movie Production Over Decades?
-Which Directors Have the Highest Average IMDb Scores?
-Which content rating category contributes the most to overall profitability
+- Which Genre Category is the Most Profitable?
+- Which genre categories have the highest average IMDb scores?
+- Which countries dominate the movie industry in terms of total profit?
+- What are the Trends in Movie Production Over Decades?
+- Which Directors Have the Highest Average IMDb Scores?
+- Which content rating category contributes the most to overall profitability?
 
 ## Key Features:
 💹 Profitability Analysis: Insights into total budget, gross revenue, and profits across genre categories.
