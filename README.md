@@ -24,14 +24,8 @@ This project presents an interactive Excel dashboard that explores the profitabi
   ## DashBoard
   ![Screenshot 2025-02-24 013625](https://github.com/user-attachments/assets/d1c4db1f-2898-4154-b715-032e656d8ccb)
 
-## Key Features:
-💹 Profitability Analysis: Insights into total budget, gross revenue, and profits across genre categories.
-🎭 Genre Insights: Evaluation of average IMDb scores per genre to identify top-performing categories.
-🎬 Director Rankings: Top directors based on average IMDb scores, highlighting industry benchmarks.
-🌎 Global Trends: Country-wise profit performance and decade-wise profitability trends.
-🎞️ Content Rating Performance: Profitability distribution across content ratings for audience segmentation insights.
-Tools Used:
 
+## Tools Used:
 📊 Microsoft Excel (Data Cleaning, Pivot Tables, Interactive Charts, Slicers)
 🧹 Power Query (Data Validation & Enrichment)
 🎨 Themed Design: Classic Hollywood Glam
