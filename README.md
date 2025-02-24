@@ -13,6 +13,13 @@ This project presents an interactive Excel dashboard that explores the profitabi
 - What are the Trends in Movie Production Over Decades?
 - Which Directors Have the Highest Average IMDb Scores?
 - Which content rating category contributes the most to overall profitability?
+- Dashboard Interaction :  <a href = "https://github.com/sasha8499/Movies-IMDB-Excel-Project/blob/main/Screenshot%202025-02-24%20013625.png">View Dashboard</a>
+
+## Process
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Key Features:
 💹 Profitability Analysis: Insights into total budget, gross revenue, and profits across genre categories.
