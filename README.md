@@ -15,7 +15,9 @@ Tools Used:
 📊 Microsoft Excel (Data Cleaning, Pivot Tables, Interactive Charts, Slicers)
 🧹 Power Query (Data Validation & Enrichment)
 🎨 Themed Design: Classic Hollywood Glam
-Dataset: IMDb 5000 Movie Dataset(https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset)
+
+## Dataset Used
+- <a href =  "https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset" >Dataset</a>
 
 Project Highlights:
 
